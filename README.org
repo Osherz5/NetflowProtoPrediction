@@ -1,0 +1,3 @@
+* IP Network Traffic Protocol Prediction
+Classification of protocols based on netflow metadata project for DTSA 5510 Unsupervised Algorithms in Machine Learning
+In this project we compare unsupervised and supervised approaches to classifying network protocols based on netflow metadata.
