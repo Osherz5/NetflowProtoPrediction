@@ -1,3 +1,25 @@
 * IP Network Traffic Protocol Prediction
-Classification of protocols based on netflow metadata project for DTSA 5510 Unsupervised Algorithms in Machine Learning
-In this project we compare unsupervised and supervised approaches to classifying network protocols based on netflow metadata.
+Classification of applications network traffic based on netflow metadata project for DTSA 5510 Unsupervised Algorithms in Machine Learning
+In this project we compare unsupervised and supervised approaches to classifying applications network traffic based on netflow metadata.
+
+** Data
+https://www.kaggle.com/datasets/jsrojas/ip-network-traffic-flows-labeled-with-87-apps
+
+** References
+Research Gate:
+https://www.researchgate.net/publication/326150046_Personalized_Service_Degradation_Policies_on_OTT_Applications_Based_on_the_Consumption_Behavior_of_Users
+
+Research Gate:
+https://www.researchgate.net/publication/335954240_Consumption_Behavior_Analysis_of_Over_The_Top_Services_Incremental_Learning_or_Traditional_Methods
+
+Springer:
+https://link.springer.com/chapter/10.1007/978-3-319-95168-3_37
+
+IEEExplore
+https://ieeexplore.ieee.org/document/8845576
+
+Research Gate:
+https://www.researchgate.net/publication/345990587_Smart_User_Consumption_Profiling_Incremental_Learning-based_OTT_Service_Degradation
+
+IEEExpore
+https://ieeexplore.ieee.org/document/9258898
